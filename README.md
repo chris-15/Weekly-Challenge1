@@ -20,7 +20,10 @@ Given some starter code, changes were made to make the code have meaning. Below 
 - the CSS code selectors were updated to reflect the changes to the new elements, ids, and classes
 - the CSS code was cleaned up to consolidate any repeat call outs to one line of code
 
-Note: The hero `<div>` was not changed in order for the functionality of the webpage to remain. The hero does not provide any context to the main content, therefore it was left as `<div>`.
+**Note:** The hero `<div>` was not changed in order for the functionality of the webpage to remain. The hero does not provide any context to the main content, therefore it was left as `<div>`.
+
+Below is a preview of the deployed application:
+![deployed application](/assets/images/horiseon-preview.PNG)
 
 
 ## Installation
@@ -31,6 +34,10 @@ The starter code can downloaded here: [Starter code](https://github.com/coding-b
 ## Usage 
 
 This code can be used to compare to the starter code to show proper html semantics.
+
+Code Repository found here: [Repository](https://github.com/chris-15/Weekly-Challenge1-Sarmiento-Salas)
+
+Deployed Application found here: [Horiseon](https://chris-15.github.io/Weekly-Challenge1-Sarmiento-Salas/)
 
 
 ## Credits
